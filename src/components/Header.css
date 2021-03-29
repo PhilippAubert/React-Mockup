@@ -1,0 +1,22 @@
+.Header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border: 1px solid #00f;
+  padding: 0 20px;
+  border-radius: 6px 6px 6px 6px;
+}
+
+h1 {
+  margin-left: 20px;
+  color: #00f;
+}
+
+.Button-Header {
+  border-radius: 4px 4px 4px 4px;
+  padding: 2%;
+  scroll-margin-right: 20px;
+  background-color: #fff;
+  border: 2px solid #f00;
+  font-size: 15px;
+}
